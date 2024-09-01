@@ -1,2 +1,2 @@
-# ByteWizards-
-Show results page only
+# BiWizards-
+Our First Project as a Team
